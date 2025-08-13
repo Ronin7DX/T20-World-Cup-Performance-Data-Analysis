@@ -80,38 +80,6 @@ Measures used in visualization are:
 ## Reports:
 Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
-### Player Analysis 
-
-|    Openers      |
-| --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-2](http://googleusercontent.com/file_content/1](https://github.com/Ronin7DX/T20-World-Cup-Performance-Data-Analysis/blob/main/Screenshot%202025-08-13%20212424.png))|
-
-
- | Middle Order |
- | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-3](http://googleusercontent.com/file_content/2)|
-
-
- | Finisher |
- | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-4](http://googleusercontent.com/file_content/3)|
-
-
-| All Rounder |
-| --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-5](http://googleusercontent.com/file_content/4)|
-
-
-| Specilist Fast Bolwers |
-| --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-6](http://googleusercontent.com/file_content/5)|
-
-
-| Final Best 11 Players |
-| --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-8](http://googleusercontent.com/file_content/6)|
-
-
 ## Tools, Software and Libraries :
 
 1.Jupyter Notebook
