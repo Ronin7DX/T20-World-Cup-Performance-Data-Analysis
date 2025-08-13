@@ -84,7 +84,7 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
 |    Openers      |
 | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-2](http://googleusercontent.com/file_content/1)|
+|![2022 T20 Cricket World Cup Dashboard- Best Final 11-2]([http://googleusercontent.com/file_content/1](https://github.com/Ronin7DX/T20-World-Cup-Performance-Data-Analysis/blob/main/Screenshot%202025-08-13%20212424.png))|
 
 
  | Middle Order |
